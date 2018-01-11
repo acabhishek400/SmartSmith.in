@@ -13,3 +13,17 @@ Text Domain:	 azera-child
 /*
     Add your custom styles here
 */
+
+body{
+	background-color:#ccd9ff;
+}
+
+.archive-top-big-title {
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-size: 2.4rem;
+    font-weight: 300;
+    line-height: 3.125rem;
+    font-family: -webkit-pictograph;
+    color: blanchedalmond;
+}
